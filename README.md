@@ -13,15 +13,15 @@ Missing Data- No missing data in the data set.
 
 Analysis- EDA and Multiple Linear Regression followed by Model Validation
 
-2.  Package used :  
+2. Package used :  
 
 ggplot,dplyr,olsrr,car,boot,DataExplorer
 
-3.  Visualization:
+3. Visualization:
 
 Histogram, Bar graphs,Density plot, Scatterplot, pairplot, heatmap
 
-#Conclusion :
+# Conclusion :
 
 1.List Price is the proxy to Selling Price , so including list price as a predictor variable decreases the significance of the other variables included.
 
