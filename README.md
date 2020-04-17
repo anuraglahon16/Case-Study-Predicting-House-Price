@@ -7,19 +7,19 @@ AGENDA is to build a model to predict the selling price of the new houses coming
 # Analytical Overview
 1. Analysis of Data : 
 
-Types of Data- All the variables are numeric. No categorical data
+  Types of Data- All the variables are numeric. No categorical data
 
-Missing Data- No missing data in the data set.
+  Missing Data- No missing data in the data set.
 
-Analysis- EDA and Multiple Linear Regression followed by Model Validation
+  Analysis- EDA and Multiple Linear Regression followed by Model Validation
 
 2. Package used :  
 
-ggplot,dplyr,olsrr,car,boot,DataExplorer
+  ggplot,dplyr,olsrr,car,boot,DataExplorer
 
 3. Visualization:
 
-Histogram, Bar graphs,Density plot, Scatterplot, pairplot, heatmap
+   Histogram, Bar graphs,Density plot, Scatterplot, pairplot, heatmap
 
 # Conclusion :
 
@@ -29,6 +29,6 @@ Histogram, Bar graphs,Density plot, Scatterplot, pairplot, heatmap
 
 3.The age or the time the house is on market do not effect the selling price.
 
-4. With the increasing miles of mountain base , the selling price decreases. So lower the miles of mountain better the selling price.
+4.With the increasing miles of mountain base , the selling price decreases. So lower the miles of mountain better the selling price.
 
 
