@@ -32,3 +32,4 @@ AGENDA is to build a model to predict the selling price of the new houses coming
 4.With the increasing miles of mountain base , the selling price decreases. So lower the miles of mountain better the selling price.
 
 
+# Blog : [Case Study Blog](https://medium.com/@anuraglahonmba/case-study-of-a-model-to-predict-the-selling-price-of-the-new-houses-coming-onto-the-market-a6443726de5b)
